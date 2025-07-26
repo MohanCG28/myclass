@@ -6,4 +6,9 @@ public class HelloWorld2 {
 	{
 		System.out.println("HelloWorld !!!");
 	}
+
+	// code changes form b1 branch
+	public void m1() {
+		System.out.println("changes from method-1");
+	}
 }
