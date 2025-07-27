@@ -7,8 +7,12 @@ public class HelloWorld2 {
 		System.out.println("Welcome to the World of DevOps!!!");
 	}
 
-	// code changes form b1 branch
 	public void m1() {
 		System.out.println("New Method-1");
 	}
+	
+	// code changes form B1 branch
+	public void m2() {
+	System.out.println("New Method-2");
+		}
 }
